@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_content_view_inventory.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\content_view_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_dialog_add_item.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\dialog_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_activity_offline.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\drawable_bg_sold.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\drawable\\bg_sold.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\drawable_btn_custom.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\drawable\\btn_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ebayapiproject.app-merged_res-40:/layout_activity_search_results.xml.flat",
+        "source": "com.example.ebayapiproject.app-main-42:/layout/activity_search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_activity_view_inventory.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\activity_view_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\drawable_btn_sold.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\drawable\\btn_sold.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\activity_main.xml"
+    }
+]

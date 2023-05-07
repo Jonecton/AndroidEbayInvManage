@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\activity_view_inventory.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\activity_view_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\activity_offline.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\dialog_add_item.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\dialog_add_item.xml"
+    },
+    {
+        "merged": "com.example.ebayapiproject.app-mergeDebugResources-39:/layout/activity_search_results.xml",
+        "source": "com.example.ebayapiproject.app-main-42:/layout/activity_search_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\content_view_inventory.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\content_view_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jonat\\.gradle\\daemon\\7.5\\com.example.ebayapiproject.app-main-42:\\layout\\activity_main.xml"
+    }
+]
